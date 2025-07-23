@@ -34,3 +34,5 @@ Tracks service demand trends pre- and post-pandemic
 
 
 Demo - 
+
+https://github.com/navya-goel28/Hospital-Patients-Waitlist-Dashboard/blob/main/Dashboard%20Preview.png
